@@ -1,64 +1,35 @@
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BOJ_2564 {
+public class BOJ_2564 { // 경비원
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	public static void main(String[] args) throws FileNotFoundException {
+		System.setIn(new FileInputStream("input.txt"));
 		Scanner sc = new Scanner(System.in);
 		int m = sc.nextInt(); // 가로
 		int n = sc.nextInt(); // 세로
 		int cnt = sc.nextInt(); // 상점의 개수
 		
-		// 좌표 계산
-		int[][] map = new int[cnt+1][2];
-		int[][] temp = new int[cnt+1][2];
-		for (int i = 0; i < cnt+1; i++) {
-			temp[i][0] = sc.nextInt();
-			temp[i][1] = sc.nextInt(); // 블록의 북/남쪽에 위치한 경우 블록의 왼쪽 경계로부터의 거리를 나타내고,블록의 동/서쪽에 위치한 경우 블록의 위쪽 경계로부터의 거리를 나타낸다.
+//		2차원 지도의 테두리를 1차원 선으로 변환
+		int[] pos = new int[cnt+1];
+		for (int i = 0; i <= cnt; i++) {
+			int dir = sc.nextInt(); // 방향
+			int dist = sc.nextInt(); // 거리
 			
-			if(temp[i][0] == 1) // 북
-			{
-				map[i][0] = 0;
-				map[i][1] = temp[i][1];
-			}
-			else if(temp[i][0] == 2) //남
-			{
-				map[i][0] = n;
-				map[i][1] = temp[i][1];
-			}
-			else if(temp[i][0] == 3) // 서
-			{
-				map[i][0] = temp[i][1];
-				map[i][1] = 0;
-			}
-			else // 동
-			{
-				map[i][0] = temp[i][1];
-				map[i][0] = m;
-			}
-			//System.out.println(Arrays.toString(map[i]));
+			if(dir == 1) pos[i] = m-dist; // 북
+			else if(dir == 3) pos[i] = m+dist; //서
+			else if(dir == 2) pos[i] = m+n+dist; // 남
+			else pos[i] = m+n+m+n-dist; // 동
 		}
 		
-		// 거리 계산
-		
+		int sum = 0;
 		for (int i = 0; i < cnt; i++) {
-			int len1 = map[i][0]+map[i][1];
-			int len2 = 0;
-			if(temp[i][0] == 1) // 북
-			{
-				len1 += temp[i][1]; 
-			}
-			else if(temp[i][0] == 2) //남
-			{
-			}
-			else if(temp[i][0] == 3) // 서
-			{
-				
-			}
-			else // 동
-			{
-			}
+			int len1 = Math.abs(pos[cnt]-pos[i]);
+			int len2 = 2*m+2*n - len1;
+			sum += Math.min(len1, len2);
 		}
+		System.out.println(sum);
 	}
 }
