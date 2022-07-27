@@ -66,5 +66,4 @@ public class SWEA_04615 {
 		}
 		sc.close();
 	}
-
 }
