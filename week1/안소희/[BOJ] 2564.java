@@ -22,47 +22,29 @@ public class boj2564 {
 		
 		int store=sc.nextInt(); //상점의 갯수
 
-		int total_dis=0; //각 상점까지의 최단거리들의 합
+		int total_dis=0; //각 상점까지의 최단거리들의 합 
 
-		int d_dir=0,dg=0; //동근이의 위치  
-
-		for(int i=0;i<=store;i++) {
+		for(int i=0;i<store;i++) {
 			int dir=sc.nextInt(); // 1:북=> i=0 2:남=>i=m 3:서=>j=0 4:동 j=n;
 			int location=sc.nextInt(); //위치
 			switch(dir) {
 			case 1:
 				map[0][location]=1;
-				d_dir=1;
-				dg=location;
 				break;
 			case 2:
 				map[m][location]=1;
-				d_dir=2;
-				dg=location;
 				break;
 			case 3:
 				map[location][0]=1;
-				dg=location;
-				d_dir=3;
 				break;
 			case 4:
 				map[location][n]=1;
-				dg=location;
-				d_dir=4;
 				break;
 			}
 		}
-		for(int i=0;i<=m;i++) {
-
-			for(int j=0;j<=n;j++) {
-
-				System.out.print(map[i][j]);
-
-			}
-
-			System.out.println();
-
-		}
+		int d_dir=sc.nextInt();
+		int dg=sc.nextInt();
+		
 		//펼쳐서 선분의 길이 생각
 		int cnt_store=0;
 		
