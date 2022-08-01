@@ -1,4 +1,5 @@
 package boj.n2564;
+
 // S1 경비원
 import java.util.Arrays;
 import java.util.Scanner;
