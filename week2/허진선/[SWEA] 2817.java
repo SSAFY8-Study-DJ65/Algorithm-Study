@@ -2,7 +2,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class SWEA_1949 {
+public class SWEA_2817 {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		System.setIn(new FileInputStream("input.txt"));
