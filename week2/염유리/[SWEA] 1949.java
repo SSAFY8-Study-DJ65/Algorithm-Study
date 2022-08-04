@@ -42,9 +42,11 @@ public class Solution {
 						
 						map[i][j] -= k;
 						
+						visited = new boolean[N][N];
+						
 						for (int r = 0; r < N; r++) {
 							for (int c = 0; c < N; c++) {
-								visited = new boolean[N][N];
+								
 								if(map[r][c] == max) {
 									dfs(r, c, 1);	
 								}
