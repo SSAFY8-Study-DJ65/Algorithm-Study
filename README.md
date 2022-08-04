@@ -106,5 +106,17 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc">[SWEA D3 1873] 상호의 배틀필드</a></td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWefy5x65PoDFAUh#none">[SWEA D3 6730] 장애물 경주 난이도</a></td>
 		</tr>
+		<tr>
+			<td>week2</td>
+			<td>22.08.01</td>
+			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm">[SWEA D4 5432] 쇠막대기 자르기</a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>week2</td>
+			<td>22.08.03</td>
+			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7IzvG6EksDFAXB">[SWEA D3 2817] 부분 수열의 합</a></td>
+			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq">[SWEA 모의 1949] 등산로 조성</a></td>
+		</tr>
 	</tbody>
 </table>
