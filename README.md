@@ -118,5 +118,11 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7IzvG6EksDFAXB">[SWEA D3 2817] 부분 수열의 합</a></td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq">[SWEA 모의 1949] 등산로 조성</a></td>
 		</tr>
+		<tr>
+			<td>week3</td>
+			<td>22.08.08</td>
+			<td><a href="https://www.acmicpc.net/problem/17070">[BOJ G5 17070] 파이프 옮기기 1</a></td>
+			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD">[SWEA D3 1220] Magnetic</a></td>
+		</tr>
 	</tbody>
 </table>
