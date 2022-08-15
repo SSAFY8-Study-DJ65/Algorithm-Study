@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 
 public class d31220 {
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

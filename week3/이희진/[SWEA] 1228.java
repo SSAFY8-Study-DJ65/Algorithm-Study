@@ -1,10 +1,9 @@
-import java.util.ArrayList;
 import java.util.Scanner;
+import java.util.ArrayList;
 
 public class sw1228 {
 
 	public static void main(String[] args) throws Exception {
-		// TODO Auto-generated method stub
 
 		Scanner sc = new Scanner(System.in);
 		
