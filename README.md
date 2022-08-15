@@ -130,5 +130,11 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://www.acmicpc.net/problem/15686">[BOJ G5 15686] 치킨 배달</a></td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIseXoKEUcDFAWN">[SWEA D4 4050] 재관이의 대량 할인</a></td>
 		</tr>
+		<tr>
+			<td>week4</td>
+			<td>22.08.15</td>
+			<td><a href="https://www.acmicpc.net/problem/16234">[BOJ G5 16234] 인구 이동</a></td>
+			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo&">[SWEA 모의 5658] 보물상자 비밀번호</a></td>
+		</tr>
 	</tbody>
 </table>
