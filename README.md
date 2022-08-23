@@ -137,10 +137,16 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo">[SWEA 모의 5658] 보물상자 비밀번호</a></td>
 		</tr>
 		<tr>
-			<td>week4</td>
-			<td>22.08.18</td>
+			<td>week5</td>
+			<td>22.08.22</td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo">[SWEA 모의 5653] 줄기세포배양</a></td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbrg9uabZsDFAWQ">[SWEA D4 6109] 추억의 2048게임</a></td>
+		</tr>
+		<tr>
+			<td>week4</td>
+			<td>22.08.22</td>
+			<td><a href="https://www.acmicpc.net/problem/14719">[BOJ G5 14719] 빗물</a></td>
+			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB">[SWEA D4 2819] 격자판의 숫자 이어 붙이기</a></td>
 		</tr>
 	</tbody>
 </table>
