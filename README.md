@@ -154,5 +154,11 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu">[SWEA 모의 2105] 디저트 카페</a></td>
 			<td></td>
 		</tr>
+		<tr>
+			<td>week6</td>
+			<td>22.09.01</td>
+			<td><a href="https://www.acmicpc.net/problem/21608">[BOJ G5 21608] 상어 초등학교</a></td>
+			<td><a href="https://www.acmicpc.net/problem/1600">[BOJ G3 1600] 말이 되고픈 원숭이</a></td>
+		</tr>
 	</tbody>
 </table>
