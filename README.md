@@ -160,5 +160,11 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://www.acmicpc.net/problem/21608">[BOJ G5 21608] 상어 초등학교</a></td>
 			<td><a href="https://www.acmicpc.net/problem/1600">[BOJ G3 1600] 말이 되고픈 원숭이</a></td>
 		</tr>
+		<tr>
+			<td>week7</td>
+			<td>22.09.05</td>
+			<td><a href="https://www.acmicpc.net/problem/1446">[BOJ S1 1446] 지름길</a></td>
+			<td><a href="https://www.acmicpc.net/problem/2623">[BOJ G3 2623] 음악프로그램</a></td>
+		</tr>
 	</tbody>
 </table>
