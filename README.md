@@ -109,8 +109,7 @@ SSAFY 8기 대전 6반 5조
 		<tr>
 			<td>week2</td>
 			<td>22.08.01</td>
-			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm">[SWEA D4 5432] 쇠막대기 자르기</a></td>
-			<td></td>
+			<td colspan="2"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm">[SWEA D4 5432] 쇠막대기 자르기</a></td>
 		</tr>
 		<tr>
 			<td>week2</td>
@@ -151,8 +150,7 @@ SSAFY 8기 대전 6반 5조
 		<tr>
 			<td>week5</td>
 			<td>22.08.24</td>
-			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu">[SWEA 모의 2105] 디저트 카페</a></td>
-			<td></td>
+			<td colspan="2"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu">[SWEA 모의 2105] 디저트 카페</a></td>
 		</tr>
 		<tr>
 			<td>week6</td>
@@ -161,10 +159,26 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://www.acmicpc.net/problem/1600">[BOJ G3 1600] 말이 되고픈 원숭이</a></td>
 		</tr>
 		<tr>
-			<td>week7</td>
-			<td>22.09.05</td>
-			<td><a href="https://www.acmicpc.net/problem/1446">[BOJ S1 1446] 지름길</a></td>
-			<td><a href="https://www.acmicpc.net/problem/2623">[BOJ G3 2623] 음악프로그램</a></td>
+			<td rowspan="2">week7</td>
+			<td rowspan="2">22.09.05~12</td>
+			<td><a href="https://www.acmicpc.net/problem/17471">[BOJ G4 17471] 게리맨더링</a></td>
+			<td><a href="https://www.acmicpc.net/problem/1967">[BOJ G4 1967] 트리의 지름</a></td>
+		</tr>
+		<tr>
+			<td><a href="https://www.acmicpc.net/problem/3184">[BOJ S1 3184] 양</a></td>
+			<td><a href="https://www.acmicpc.net/problem/1647">[BOJ G4 1647] 도시 분할 계획</a></td>
+		</tr>
+		<tr>
+			<td>week8</td>
+			<td>22.09.14</td>
+			<td><a href="https://www.acmicpc.net/problem/14503">[BOJ G5 14503] 로봇 청소기</a></td>
+			<td><a href="https://www.acmicpc.net/problem/2638">[BOJ G3 2638] 치즈</a></td>
+		</tr>
+		<tr>
+			<td>week9</td>
+			<td>22.09.20</td>
+			<td><a href="https://www.acmicpc.net/problem/16954">[BOJ G3 16954] 움직이는 미로 탈출</a></td>
+			<td><a href="https://www.acmicpc.net/problem/20058">[BOJ G4 20058] 마법사 상어와 파이어스톰</a></td>
 		</tr>
 	</tbody>
 </table>
