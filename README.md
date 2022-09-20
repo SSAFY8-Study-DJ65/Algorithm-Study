@@ -176,7 +176,7 @@ SSAFY 8기 대전 6반 5조
 		</tr>
 		<tr>
 			<td>week9</td>
-			<td>22.09.20</td>
+			<td>22.09.19</td>
 			<td><a href="https://www.acmicpc.net/problem/16954">[BOJ G3 16954] 움직이는 미로 탈출</a></td>
 			<td><a href="https://www.acmicpc.net/problem/20058">[BOJ G4 20058] 마법사 상어와 파이어스톰</a></td>
 		</tr>
