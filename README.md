@@ -109,7 +109,7 @@ SSAFY 8기 대전 6반 5조
 		<tr>
 			<td>week2</td>
 			<td>22.08.01</td>
-			<td colspan="2"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm">[SWEA D4 5432] 쇠막대기 자르기</a></td>
+			<td colspan="2" align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm">[SWEA D4 5432] 쇠막대기 자르기</a></td>
 		</tr>
 		<tr>
 			<td>week2</td>
@@ -150,7 +150,7 @@ SSAFY 8기 대전 6반 5조
 		<tr>
 			<td>week5</td>
 			<td>22.08.24</td>
-			<td colspan="2"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu">[SWEA 모의 2105] 디저트 카페</a></td>
+			<td colspan="2" align="center"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu">[SWEA 모의 2105] 디저트 카페</a></td>
 		</tr>
 		<tr>
 			<td>week6</td>
