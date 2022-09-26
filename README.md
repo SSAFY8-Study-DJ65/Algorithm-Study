@@ -180,5 +180,17 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://www.acmicpc.net/problem/16954">[BOJ G3 16954] 움직이는 미로 탈출</a></td>
 			<td><a href="https://www.acmicpc.net/problem/20058">[BOJ G4 20058] 마법사 상어와 파이어스톰</a></td>
 		</tr>
+		<tr>
+			<td>week9</td>
+			<td>22.09.21</td>
+			<td><a href="https://www.acmicpc.net/problem/20056">[BOJ G4 20056] 마법사 상어와 파이어볼</a></td>
+			<td><a href="https://www.acmicpc.net/problem/21610">[BOJ G5 21610] 마법사 상어와 비바라기</a></td>
+		</tr>
+		<tr>
+			<td>week10</td>
+			<td>22.09.26</td>
+			<td><a href="https://www.acmicpc.net/problem/2468">[BOJ S1 2468] 안전 영역</a></td>
+			<td><a href="https://www.acmicpc.net/problem/2665">[BOJ G4 2665] 미로만들기</a></td>
+		</tr>
 	</tbody>
 </table>
