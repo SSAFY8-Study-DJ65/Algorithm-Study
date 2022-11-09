@@ -193,7 +193,18 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://www.acmicpc.net/problem/2665">[BOJ G4 2665] 미로만들기</a></td>
 		</tr>
 		<tr>
-			<td rowspan="2">week11</td>
+			<td>week11</td>
+			<td>22.10.05</td>
+			<td colspan="2"><a href="https://www.acmicpc.net/problem/17143">[BOJ G2 17143] 낚시왕</a></td>
+		</tr>
+		<tr>
+			<td>week12</td>
+			<td>22.10.12</td>
+			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf&categoryId=AV4suNtaXFEDFAUf&categoryType=CODE&problemTitle=%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">[SWEA SW 176] 프로세서 연결하기</a></td>
+			<td>[SSAFY 모의 SW] 전기 자동차 충전소</a></td>
+		</tr>
+		<tr>
+			<td rowspan="2">week13</td>
 			<td>22.10.17</td>
 			<td><a href="https://www.acmicpc.net/problem/1726">[BOJ G3 1726] 로봇</a></td>
 			<td><a href="https://www.acmicpc.net/problem/1238">[BOJ G3 1238] 파티</a></td>
@@ -204,9 +215,9 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://www.acmicpc.net/problem/2026">[BOJ G3 2026] 소풍</a></td>
 		</tr>
 		<tr>
-			<td rowspan="2">week12</td>
+			<td rowspan="2">week14</td>
 			<td>22.10.24</td>
-			<td colspan="2" ><a href="https://www.acmicpc.net/problem/2931">[BOJ G3 2931] 가스관</a></td>
+			<td colspan="2"><a href="https://www.acmicpc.net/problem/2931">[BOJ G3 2931] 가스관</a></td>
 		</tr>
 		<tr>
 			<td>22.10.28</td>
