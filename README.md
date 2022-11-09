@@ -194,7 +194,7 @@ SSAFY 8기 대전 6반 5조
 		</tr>
 		<tr>
 			<td rowspan="2">week11</td>
-			<td rowspan="2">22.10.17</td>
+			<td>22.10.17</td>
 			<td><a href="https://www.acmicpc.net/problem/1726">[BOJ G3 1726] 로봇</a></td>
 			<td><a href="https://www.acmicpc.net/problem/1238">[BOJ G3 1238] 파티</a></td>
 		</tr>
