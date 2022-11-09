@@ -200,7 +200,7 @@ SSAFY 8기 대전 6반 5조
 		<tr>
 			<td>week12</td>
 			<td>22.10.12</td>
-			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf&categoryId=AV4suNtaXFEDFAUf&categoryType=CODE&problemTitle=%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">[SWEA SW 176] 프로세서 연결하기</a></td>
+			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf&categoryId=AV4suNtaXFEDFAUf&categoryType=CODE&problemTitle=%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1">[SWEA SW 1767] 프로세서 연결하기</a></td>
 			<td>[SSAFY 모의 SW] 전기 자동차 충전소</a></td>
 		</tr>
 		<tr>
