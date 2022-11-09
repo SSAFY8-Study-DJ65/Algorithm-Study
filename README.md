@@ -199,6 +199,7 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://www.acmicpc.net/problem/1238">[BOJ G3 1238] 파티</a></td>
 		</tr>
 		<tr>
+			<td>22.10.19</td>
 			<td><a href="https://www.acmicpc.net/problem/9466">[BOJ G3 9466] 텀 프로젝트</a></td>
 			<td><a href="https://www.acmicpc.net/problem/2026">[BOJ G3 2026] 소풍</a></td>
 		</tr>
@@ -208,6 +209,7 @@ SSAFY 8기 대전 6반 5조
 			<td colspan="2" ><a href="https://www.acmicpc.net/problem/2931">[BOJ G3 2931] 가스관</a></td>
 		</tr>
 		<tr>
+			<td>22.10.28</td>
 			<td><a href="https://www.acmicpc.net/problem/3980">[BOJ G5 3980] 선발 명단</a></td>
 			<td><a href="https://www.acmicpc.net/problem/2661">[BOJ G4 2661] 좋은수열</a></td>
 		</tr>
