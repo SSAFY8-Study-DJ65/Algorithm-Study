@@ -89,66 +89,60 @@ SSAFY 8기 대전 6반 5조
 	</thead>
 	<tbody>
 		<tr>
-			<td>week1</td>
+			<td rowspan="3">week1</td>
 			<td>22.07.21</td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj">[SWEA D3 4615] 재미있는 오셀로 게임</a></td>
 			<td><a href="http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=980&sca=99&sfl=wr_subject&stx=%EB%8B%AC%ED%8C%BD%EC%9D%B4">[JO BC 1707] 달팽이 사각형</a></td>
 		</tr>
 		<tr>
-			<td>week1</td>
 			<td>22.07.25</td>
 			<td><a href="https://www.acmicpc.net/problem/2564">[BOJ S1 2564] 경비원</a></td>
 			<td><a href="https://www.acmicpc.net/problem/1244">[BOJ S3 1244] 스위치 켜고 끄기</a></td>
 		</tr>
 		<tr>
-			<td>week1</td>
 			<td>22.07.27</td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc">[SWEA D3 1873] 상호의 배틀필드</a></td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWefy5x65PoDFAUh#none">[SWEA D3 6730] 장애물 경주 난이도</a></td>
 		</tr>
 		<tr>
-			<td>week2</td>
+			<td rowspan="2">week2</td>
 			<td>22.08.01</td>
 			<td colspan="2"><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm">[SWEA D4 5432] 쇠막대기 자르기</a></td>
 		</tr>
 		<tr>
-			<td>week2</td>
 			<td>22.08.03</td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7IzvG6EksDFAXB">[SWEA D3 2817] 부분 수열의 합</a></td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq">[SWEA 모의 1949] 등산로 조성</a></td>
 		</tr>
 		<tr>
-			<td>week3</td>
+			<td rowspan="2">week3</td>
 			<td>22.08.08</td>
 			<td><a href="https://www.acmicpc.net/problem/17070">[BOJ G5 17070] 파이프 옮기기 1</a></td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD">[SWEA D3 1220] Magnetic</a></td>
 		</tr>
 		<tr>
-			<td>week3</td>
 			<td>22.08.11</td>
 			<td><a href="https://www.acmicpc.net/problem/15686">[BOJ G5 15686] 치킨 배달</a></td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIseXoKEUcDFAWN">[SWEA D4 4050] 재관이의 대량 할인</a></td>
 		</tr>
 		<tr>
-			<td>week4</td>
+			<td rowspan="2">week4</td>
 			<td>22.08.15</td>
 			<td><a href="https://www.acmicpc.net/problem/16234">[BOJ G5 16234] 인구 이동</a></td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo">[SWEA 모의 5658] 보물상자 비밀번호</a></td>
 		</tr>
 		<tr>
-			<td>week4</td>
 			<td>22.08.18</td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo">[SWEA 모의 5653] 줄기세포배양</a></td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbrg9uabZsDFAWQ">[SWEA D4 6109] 추억의 2048게임</a></td>
 		</tr>
 		<tr>
-			<td>week5</td>
+			<td rowspan="2">week5</td>
 			<td>22.08.22</td>
 			<td><a href="https://www.acmicpc.net/problem/14719">[BOJ G5 14719] 빗물</a></td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB">[SWEA D4 2819] 격자판의 숫자 이어 붙이기</a></td>
 		</tr>
 		<tr>
-			<td>week5</td>
 			<td>22.08.24</td>
 			<td colspan="2" ><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu">[SWEA 모의 2105] 디저트 카페</a></td>
 		</tr>
@@ -175,13 +169,12 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://www.acmicpc.net/problem/2638">[BOJ G3 2638] 치즈</a></td>
 		</tr>
 		<tr>
-			<td>week9</td>
+			<td rowspan="2">week9</td>
 			<td>22.09.19</td>
 			<td><a href="https://www.acmicpc.net/problem/16954">[BOJ G3 16954] 움직이는 미로 탈출</a></td>
 			<td><a href="https://www.acmicpc.net/problem/20058">[BOJ G4 20058] 마법사 상어와 파이어스톰</a></td>
 		</tr>
 		<tr>
-			<td>week9</td>
 			<td>22.09.21</td>
 			<td><a href="https://www.acmicpc.net/problem/20056">[BOJ G4 20056] 마법사 상어와 파이어볼</a></td>
 			<td><a href="https://www.acmicpc.net/problem/21610">[BOJ G5 21610] 마법사 상어와 비바라기</a></td>
