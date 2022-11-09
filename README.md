@@ -192,5 +192,11 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://www.acmicpc.net/problem/2468">[BOJ S1 2468] 안전 영역</a></td>
 			<td><a href="https://www.acmicpc.net/problem/2665">[BOJ G4 2665] 미로만들기</a></td>
 		</tr>
+		<tr>
+			<td>week11</td>
+			<td>22.10.17</td>
+			<td><a href="https://www.acmicpc.net/problem/1726">[BOJ G3 1726] 로봇</a></td>
+			<td><a href="https://www.acmicpc.net/problem/1238">[BOJ G3 1238] 파티</a></td>
+		</tr>
 	</tbody>
 </table>
