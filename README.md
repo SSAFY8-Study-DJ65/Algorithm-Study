@@ -193,10 +193,19 @@ SSAFY 8기 대전 6반 5조
 			<td><a href="https://www.acmicpc.net/problem/2665">[BOJ G4 2665] 미로만들기</a></td>
 		</tr>
 		<tr>
-			<td>week11</td>
-			<td>22.10.17</td>
+			<td rowspan="2">week11</td>
+			<td rowspan="2">22.10.17</td>
 			<td><a href="https://www.acmicpc.net/problem/1726">[BOJ G3 1726] 로봇</a></td>
 			<td><a href="https://www.acmicpc.net/problem/1238">[BOJ G3 1238] 파티</a></td>
+		</tr>
+		<tr>
+			<td><a href="https://www.acmicpc.net/problem/9466">[BOJ G3 9466] 텀 프로젝트</a></td>
+			<td><a href="https://www.acmicpc.net/problem/2026">[BOJ G3 2026] 소풍</a></td>
+		</tr>
+		<tr>
+			<td>week12</td>
+			<td>22.10.24</td>
+			<td><a href="https://www.acmicpc.net/problem/2931">[BOJ G3 2931] 가스관</a></td>
 		</tr>
 	</tbody>
 </table>
